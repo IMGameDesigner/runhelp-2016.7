@@ -1,0 +1,164 @@
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:background="@drawable/background"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/pet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/onehappy1" />
+
+    <ImageView
+        android:id="@+id/feed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/feed1" />
+
+    <ImageView
+        android:id="@+id/inbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/inbutton" />
+
+    <TextView
+        android:id="@+id/feedtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/goods1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods1" />
+
+    <ImageView
+        android:id="@+id/goods2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods2" />
+
+    <ImageView
+        android:id="@+id/goods3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods3" />
+
+    <ImageView
+        android:id="@+id/goods4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods4" />
+
+    <ImageView
+        android:id="@+id/goods5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods5" />
+
+    <ImageView
+        android:id="@+id/goods6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goods6" />
+
+    <ImageView
+        android:id="@+id/buybutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/buybutton" />
+
+    <ImageView
+        android:id="@+id/outbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/outbutton" />
+
+    <ImageView
+        android:id="@+id/p1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pi1" />
+
+    <ImageView
+        android:id="@+id/p2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pi2" />
+
+    <ImageView
+        android:id="@+id/p3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pi3" />
+
+    <ImageView
+        android:id="@+id/p4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pi4" />
+
+        <ImageView
+        android:id="@+id/tiao1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tiao" />
+
+    <ImageView
+        android:id="@+id/tiao2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tiao" />
+
+    <ImageView
+        android:id="@+id/tiao3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tiao" />
+    
+    <ImageView
+        android:id="@+id/cunliang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cunliang" />
+
+    <ImageView
+        android:id="@+id/chengzhang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/chengzhang" />
+
+    <ImageView
+        android:id="@+id/jie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/jie" />
+
+    <TextView
+        android:id="@+id/notetxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/begin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/begin" />
+
+    <TextView
+        android:id="@+id/testtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/bencimoneytxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:gravity="center_horizontal"
+        android:text="0" />
+
+</FrameLayout>
